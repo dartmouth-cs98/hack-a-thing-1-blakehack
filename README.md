@@ -1,7 +1,7 @@
 # hack-a-thing-1-blakehack
 
 ### Short description of what you attempted to build:
-I had zero background in web development, so I aimed to learn as much HTML and CSS as I could.  The main focus was to soak up as much information as possible, the secondary objective was to make a website to demonstrate some of these things. I had originally inteded on learning React, but discovered I'd need experience with HTML and CSS first.   
+I had zero background in web development, so I aimed to learn as much HTML and CSS as I could.  I had originally inteded on learning React, but discovered I'd need experience with HTML and CSS first.   The main focus was to soak up as much information as possible, the secondary objective was to make a website to demonstrate some of these things. I started aiming to copy the course webpage, but found that to be rather tedious and did my best to show some functionality and use some of the things I learned in the tutorial.  
 
 ### Who did what:
 I did all of it.
