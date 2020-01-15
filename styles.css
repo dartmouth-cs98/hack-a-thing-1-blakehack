@@ -51,7 +51,7 @@ h2 {
 }
 
 .folder {
-  background: url("./img/folderimg.jpeg");
+  background: url("./folderimg.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
